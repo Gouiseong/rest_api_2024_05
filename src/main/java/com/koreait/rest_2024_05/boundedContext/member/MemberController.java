@@ -1,8 +1,7 @@
 package com.koreait.rest_2024_05.boundedContext.member;
 
 import com.koreait.rest_2024_05.base.rsData.RsData;
-import com.koreait.rest_2024_05.member.entity.Member;
-import com.koreait.rest_2024_05.member.service.MemberService;
+import com.koreait.rest_2024_05.boundedContext.member.service.MemberService;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
